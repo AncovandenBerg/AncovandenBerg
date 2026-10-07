@@ -1,7 +1,7 @@
 # Hi, I'm Anco van den Berg
  
-[![LinkedIn](<img width="24" height="24" alt="afbeelding" src="https://github.com/user-attachments/assets/d69c6892-212d-4ff2-b8bd-44a769999dec" />
-)](https://www.linkedin.com/in/anco-van-den-berg-362b2153/)
+[![LinkedIn](<https://github.com/user-attachments/assets/d69c6892-212d-4ff2-b8bd-44a769999dec" />)](https://www.linkedin.com/in/anco-van-den-berg-362b2153/)
+
 [![Website](https://img.shields.io/badge/practi--works.com-1F6FEB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://practi-works.com)
  
 **Solution Architect and Tech Lead @ delaware | Microsoft Fabric, Azure, Power BI**
