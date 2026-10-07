@@ -1,6 +1,13 @@
 # Hi, I'm Anco van den Berg
- 
-[![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/anco-van-den-berg-362b2153/)
+
+<div id="badges">
+  <a href="[your-linkedin-UR](https://www.linkedin.com/in/anco-van-den-berg-362b2153)L">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="[your-youtube-URL](https://www.youtube.com/@AncovdBerg)">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+</div>
 
 [![Website](https://img.shields.io/badge/practi--works.com-1F6FEB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://practi-works.com)
  
