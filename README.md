@@ -1,6 +1,6 @@
 # Hi, I'm Anco van den Berg
  
-[![LinkedIn](<https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/filled/linkedin.svg" />)](https://www.linkedin.com/in/anco-van-den-berg-362b2153/)
+[!(<https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/filled/linkedin.svg" />)](https://www.linkedin.com/in/anco-van-den-berg-362b2153/)
 
 [![Website](https://img.shields.io/badge/practi--works.com-1F6FEB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://practi-works.com)
  
